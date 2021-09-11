@@ -1,15 +1,17 @@
 # Udagram
 
-This application is provided to you as an alternative starter project if you do not wish to host your own code done in the previous courses of this nanodegree. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
+The udagram application includes all the major components of a Full-Stack web application.
+The application starter code was provided by Udacity and the task was to
+* make the necessary changes in code to connect to the AWS RDS database and S3 storage service
+* deploy and host the application to AWS cloud platform
+* build a seamless CI/CD pipeline which is well documented and maintainable
 
 ## Getting Started
 
-1. Clone this repo locally into the location of your choice.
+1. Clone this repo locally into the location of your choice. ![GitHub repo](https://github.com/udacity/nd0067-c4-deployment-process-project-starter) 
 1. Move the content of the udagram folder at the root of the repository as this will become the main content of the project.
 1. Open a terminal and navigate to the root of the repo
 1. follow the instructions in the installation step
-
-The project can run but is missing some information to connect to the database and storage service. These will be setup during the course of the project
 
 ### Dependencies
 
@@ -53,6 +55,13 @@ Unit tests are using the Jasmine Framework.
 ### End to End Tests:
 
 The e2e tests are using Protractor and Jasmine.
+
+## Architecture Diagram
+![Architecture](./screenshots/architecture_diagram.png)
+
+## CI/CD Pipeline
+
+![Pipeline](./screenshots/pipeline.png)
 
 ## Built With
 
