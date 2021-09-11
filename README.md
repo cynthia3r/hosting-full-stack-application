@@ -8,7 +8,7 @@ The application starter code was provided by Udacity and the task was to
 
 ## Getting Started
 
-1. Clone this repo locally into the location of your choice. ![GitHub repo](https://github.com/udacity/nd0067-c4-deployment-process-project-starter) 
+1. Clone this repo locally into the location of your choice. [GitHub repo](https://github.com/udacity/nd0067-c4-deployment-process-project-starter) 
 1. Move the content of the udagram folder at the root of the repository as this will become the main content of the project.
 1. Open a terminal and navigate to the root of the repo
 1. follow the instructions in the installation step
