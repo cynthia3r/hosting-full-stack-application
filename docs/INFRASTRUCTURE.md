@@ -1,6 +1,6 @@
 # Project Infrastructure
 
-## Architecturre Diagram
+## Architecture Diagram
 ![Architecture](../screenshots/architecture_diagram.png)
 
 ## AWS cloud platform
