@@ -5,7 +5,7 @@
 
 ## AWS cloud platform
 ### Database hosting on RDS (postgreSQL)
-Database server is publicly accessible at `postgresql://postgres:password@udagram.xyz.us-east-1.rds.amazonaws.com/udagram`
+Database server is publicly accessible at `postgresql://postgres:postgres@udagram-db.c7cjjx4qtzlu.us-east-1.rds.amazonaws.com:5432/postgres`
 ### Web API Server hosted using Elastic Beanstalk service
 Udagram web server is deployed using AWS Elastic Beanstalk service at `http://udagram-env-2.eba-xyz.us-east-1.elasticbeanstalk.com/`
 ### Frontend app hosted on S3 Bucket
