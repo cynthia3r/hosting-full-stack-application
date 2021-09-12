@@ -1,7 +1,6 @@
 # Udagram
 
-The udagram application includes all the major components of a Full-Stack web application.
-The application starter code was provided by Udacity and the task was to
+The udagram application includes all the major components of a Full-Stack web application and the task was to
 * make the necessary changes in code to connect to the AWS RDS database and S3 storage service
 * deploy and host the application to AWS cloud platform
 * build a seamless CI/CD pipeline which is well documented and maintainable
@@ -14,19 +13,7 @@ The application starter code was provided by Udacity and the task was to
 1. follow the instructions in the installation step
 
 ### Dependencies
-
-```
-- Node v14.15.1 (LTS) or more recent. While older versions can work it is advisable to keep node to latest LTS version
-
-- npm 6.14.8 (LTS) or more recent, Yarn can work but was not tested for this project
-
-- AWS CLI v2, v1 can work but was not tested for this project
-
-- A RDS database running Postgres.
-
-- A S3 bucket for hosting uploaded pictures.
-
-```
+Project dependencies can be found [here](./docs/APP_DEPENDENCIES.md)
 
 ### Installation
 
@@ -56,10 +43,11 @@ Unit tests are using the Jasmine Framework.
 
 The e2e tests are using Protractor and Jasmine.
 
-## Architecture Diagram
-![Architecture](./screenshots/architecture_diagram.png)
+## Infrastructure and Architecture Diagram
+Project infrastructure details can be found [here](./docs/INFRASTRUCTURE.md)
 
 ## CI/CD Pipeline
+Project pipeline process can be found [here](./docs/PIPELINE_PROCESS.md)
 
 ![Pipeline](./screenshots/pipeline.png)
 
