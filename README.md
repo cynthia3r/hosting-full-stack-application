@@ -57,6 +57,10 @@ Project pipeline process can be found [here](./docs/PIPELINE_PROCESS.md)
 - [Node](https://nodejs.org) - Javascript Runtime
 - [Express](https://expressjs.com/) - Javascript API Framework
 
+## Frontend and backend API URLs
+- Udagram Backend API URL: `http://udagramapi-env.eba-apmqumk3.us-east-1.elasticbeanstalk.com/api/v0`
+- Udagram Frontend URL: `http://udagram-frontend-media-bucket.s3-website-us-east-1.amazonaws.com/`
+
 ## License
 
 [License](LICENSE.txt)
