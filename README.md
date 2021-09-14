@@ -56,6 +56,7 @@ Project pipeline process can be found [here](./docs/PIPELINE_PROCESS.md)
 ![Frontend S3 Bucket](./screenshots/aws_frontend_media_s3_bucket.png)
 ![CircleCI Environment Variables](./screenshots/circleci_env_variables.png)
 ![CircleCI GitHub Integration and Deploy Pipeline](./screenshots/circleci_build_success.png)
+![Udagram Frontend URL](./screenshots/udagram-frontend-url.png)
 
 ## Built With
 
