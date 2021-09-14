@@ -51,6 +51,14 @@ Project pipeline process can be found [here](./docs/PIPELINE_PROCESS.md)
 
 ![Pipeline](./screenshots/pipeline.png)
 
+
+## AWS and CircleCI Configuration screens and settings
+![RDS DB Instance](./screenshots/aws_rds_db_instance.png)
+![EB Backend Server Health](./screenshots/aws_eb_backend_api_health.png)
+![Frontend S3 Bucket](./screenshots/aws_frontend_media_s3_bucket.png)
+![CircleCI Environment Variables](./screenshots/circleci_env_variables.png)
+![CircleCI GitHub Integration and Deploy Pipeline](./screenshots/circleci_build_success.png)
+
 ## Built With
 
 - [Angular](https://angular.io/) - Single Page Application Framework
