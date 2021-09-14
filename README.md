@@ -49,8 +49,6 @@ Project infrastructure details can be found [here](./docs/INFRASTRUCTURE.md)
 ## CI/CD Pipeline
 Project pipeline process can be found [here](./docs/PIPELINE_PROCESS.md)
 
-![Pipeline](./screenshots/pipeline.png)
-
 
 ## AWS and CircleCI Configuration screens and settings
 ![RDS DB Instance](./screenshots/aws_rds_db_instance.png)
